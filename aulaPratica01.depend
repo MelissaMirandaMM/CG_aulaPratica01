@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671381591 source:c:\users\melissa\documents\arquivo - ufop\22_2\computacao_grafica\mmm\aulapratica01\main.c
+	<windows.h>
+	<gl/glut.h>
+	<gl/gl.h>
+
